@@ -1,0 +1,8 @@
+faker==19.13.0
+jupyter==1.1.1
+jupysql==0.11.1
+pandas==2.2.3
+numpy==1.26.4
+matplotlib==3.10.7
+seaborn==0.13.2
+wordcloud==1.9.4
